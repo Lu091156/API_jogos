@@ -6,7 +6,7 @@ module.exports = {
   get : (req, res) => {
 
     res.status(200).send({
-      "author" : "Guilherme Felipe Reis Soares",
+      "author" : "Teste Lu",
       "description" : "Api feita para um site de jogos"
     });
   }

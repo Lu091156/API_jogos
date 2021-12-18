@@ -2,7 +2,7 @@
   "name": "api-jogos",
   "version": "1.0.0",
   "description": "Projeto de api jogos",
-  "author": "Guilherme Soares",
+  "author": "Teste Lu",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
